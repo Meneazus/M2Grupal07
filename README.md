@@ -1,4 +1,6 @@
-CONTEXTO
+# Módulo 02 - Grupal 07
+
+## CONTEXTO
 Durante los últimos meses, las compras en línea han tenido un aumento significativo debido al avance
 tecnológico, las restricciones sanitarias impuestas y a los cambios en las formas de vida. Esto aplica
 para muchos sectores productivos, usando diversos tipos de medios para efectuar una transacción,
@@ -8,7 +10,7 @@ que haya sido implementado debido a la contingencia, sino que es un tema que lle
 que marcará la manera en la cual se adquieren bienes y servicios, en especial para negocios que están
 en etapas iniciales de desarrollo.
 
-PROBLEMA
+## PROBLEMA
 La empresa “Te lo Vendo” es un emprendimiento de un grupo de jóvenes, quienes necesitan vender sus
 productos en línea. Actualmente toman sus pedidos vía telefónica y a través del correo electrónico. Al
 no existir un sistema centralizado para los pedidos, es complejo tener control oportuno de las entregas,
@@ -18,7 +20,7 @@ seguimiento. Si bien es factible su uso, a medida que se agreguen nuevos cliente
 creciendo, y será complejo mantener la integridad entre los datos, impidiendo relacionarlos
 adecuadamente.
 
-SOLUCIÓN
+## SOLUCIÓN
 
 Dados los antecedentes anteriores, es necesario desarrollar una solución tecnológica que cubra los
 procesos de negocio descritos y que proponga una mejora en la gestión, el control, la seguridad, y
